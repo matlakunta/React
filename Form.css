@@ -1,0 +1,90 @@
+.form-inputs {
+    margin-bottom: 0.5rem;
+    width: 80%;
+    font-size: 35px;
+}
+
+.form-inputs p {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    color: #f00e0e;
+}
+
+.form-container {
+    margin: 100px auto;
+    width: 1000px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+    height: 550px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.form {
+    position: absolute;
+    left: 400px;
+}
+.form-input {
+    font-size: 20px;
+    width: 320px;
+    height: 40px;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.signup {
+    color: white;
+    background: black;
+}
+.form-input-btn1 {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    width: 120px;
+    border-radius: 5px;
+}
+.form-input-btn2 {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    width: 120px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.form-group {
+    font-size: 50px;
+    text-align: center;
+    height: 40px;
+}
+.form-input1 {
+   width: 330px;
+   height: 30px;
+}
+.signin1 {
+    font-size: 25px;
+}
+span, h4 {
+    color: lightskyblue;
+}
+
+.signin {
+    border-radius: 4px ;
+    font-size: 15px;
+    width: 100px;
+    height: 40px;
+    border-color: blue;
+}
+.signupfree {
+    border-radius: 4px ;
+    font-size: 15px;
+    width: 150px;
+    height: 40px;
+    border-color: red;
+}
+h5 {
+    padding-right: 10px;
+}
+.signin-form {
+   margin-top: 100px;
+}
+
